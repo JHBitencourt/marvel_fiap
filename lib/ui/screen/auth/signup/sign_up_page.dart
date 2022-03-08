@@ -154,7 +154,7 @@ class _CancelButton extends StatelessWidget {
       alignment: MainAxisAlignment.center,
       label: 'Cancelar',
       onTap: () {
-        context.read<AuthenticationBloc>().add(const LogoutRequest());
+        Navigator.of(context).pop();
       },
     );
   }
