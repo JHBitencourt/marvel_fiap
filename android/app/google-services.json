@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "248119726527",
+    "project_id": "marvel-d9589",
+    "storage_bucket": "marvel-d9589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248119726527:android:f0933babea0ae913bc510a",
+        "android_client_info": {
+          "package_name": "br.com.fiap.marvel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248119726527-gsplgmeiug0gd7lfjt5k2pj4ivpg3klp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fiap.marvel",
+            "certificate_hash": "ea350ba581a027bf81b7df9b51df793f5cf41311"
+          }
+        },
+        {
+          "client_id": "248119726527-u4lejhtksd967e4vb7dkkfhnqib5iphn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeB1kMqIxuJqWjT7YhuU6yYWylS3iRFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248119726527-u4lejhtksd967e4vb7dkkfhnqib5iphn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "248119726527-tmoro8gr51mrnq88286d878bpc8nse7p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.com.fiap.marvelFiap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
